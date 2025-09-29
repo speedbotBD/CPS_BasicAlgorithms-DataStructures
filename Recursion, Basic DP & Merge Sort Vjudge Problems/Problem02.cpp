@@ -1,4 +1,4 @@
-//
+//https://acm.timus.ru/problem.aspx?space=1&num=1005
 #include <bits/stdc++.h>
 using namespace std;
  
